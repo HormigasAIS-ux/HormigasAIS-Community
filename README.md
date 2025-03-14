@@ -78,3 +78,10 @@ Thanks for all your contributions and efforts towards improving the GitHub docum
 )  
 
 🔗 **Únete a la conversación en [LinkedIn](https://www.linkedin.com/in/cristhiam-quiñonez-7b6222325)**
+
+
+
+🔗 **Únete a la community en [blog Posts](
+https://www.dropbox.com/scl/fi/6ldr1obihynvkavk4c2j2/HormigasAIS-community.xml?rlkey=gxbtbxv72a2157jhyw6197tie&st=2hjy9i3a&dl=0**
+
+
