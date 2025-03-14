@@ -1,4 +1,4 @@
-# 🚀 HormigasAIS Open Lab  
+# 🚀 HormigasAIS-Community  
 
 ¡Bienvenido a **HormigasAIS Open Lab**! 🐜💡  
 Este es un espacio colaborativo para desarrolladores, marketers y creadores que buscan herramientas innovadoras para **automatización, scraping, análisis SEO y contenido con IA**.  
