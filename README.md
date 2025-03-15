@@ -81,7 +81,6 @@ Thanks for all your contributions and efforts towards improving the GitHub docum
 
 
 
-🔗 **Únete a la community en [blog Posts](
-https://www.dropbox.com/scl/fi/6ldr1obihynvkavk4c2j2/HormigasAIS-community.xml?rlkey=gxbtbxv72a2157jhyw6197tie&st=2hjy9i3a&dl=0**
+🔗 **Únete a la community en [blog Posts](https://hormigasais-community.blogspot.com/2025/03/blog-post.html?m=1)=0**
 
 
