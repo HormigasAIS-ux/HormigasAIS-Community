@@ -1,0 +1,27 @@
+3. Ensuring availability (Art. 32 para. 1 lit b GDPR)
+Measures to ensure that personal data are protected against accidental destruction or loss.
+Specific measures for our production environment (Consent Management Platform) & related systems
+Usercentrics does not operate its own server resources in its own data centers. For the production
+system (CMP) and related systems, Microsoft Azure resources (Microsoft Ireland Operations Ltd, One
+Microsoft Place, South County Business Park, Leopardstown, Dublin 18 D18) are used.
+The following measures are employed to ensure the availability of systems and data:
+● All systems and data exist in Microsoft Azure datacenters and are dependent on their
+availability as described here:
+https://docs.microsoft.com/en-us/azure/security/fundamentals/infrastructure-availability.
+● Data is stored in geo-redundant systems.
+● Our productive environment is backed up at regular intervals or data mirroring procedures are
+used.
+● The systems are protected by an uninterruptible power supply (UPS).
+● A multi-layer virus protection and firewall architecture is used.
+● Data files collected for different purposes are stored separately.
+● Regular patch management.
+● Load balancing.
+● Data storage is added as part of dynamic processes.
+● Penetration and load tests are carried out regularly.
+● The load limit for each data processing system is set above the necessary minimum in
+advance of data processing.
+● For specific Usercentrics systems, the following measures are implemented:
+o Systems health and activities are monitored both by automatic sub-systems and
+human employees.
+o Intrusion Detection Systems (IDS) are employed at the network access endpoints to
+the critical systems.
