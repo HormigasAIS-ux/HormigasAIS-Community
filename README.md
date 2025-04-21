@@ -46,4 +46,4 @@ Este es un espacio colaborativo para desarrolladores, marketers y creadores que 
 Usamos [Prettier](https://prettier.io/) para formateo y seguimos la convención de commits de [Conventional Commits](https://www.conventionalcommits.org/).  
 
 💡 **Si tienes dudas, revisa el [README](https://github.com/HormigasAIS-ux) o abre un Issue.**
-Explicación inicial del proyecto.
+Explicación inicial del proyecto.// © 2025 Cristhiam Quiñonez | HormigasAIS. Licencia MIT.
